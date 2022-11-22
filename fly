@@ -13,7 +13,7 @@ local mini2 = Instance.new("TextButton")
 local speaker = game:GetService("Players").LocalPlayer
 local tis
 local dis
-
+speeds = 1
 if nowe == true then
 		nowe = false
 
